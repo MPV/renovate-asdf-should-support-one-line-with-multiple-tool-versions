@@ -1,1 +1,1 @@
-java semeru-openj9-11.0.19+7_openj9-0.38.0 adoptopenjdk-11.0.19+7 adoptopenjdk-17.0.8+101 temurin-17.0.8+101 adoptopenjdk-8.0.352+8 graalvm-22.0.0.2+java17
+java semeru-openj9-21.0.4+7.0.LTS_openj9-0.38.0 adoptopenjdk-11.0.19+7 adoptopenjdk-17.0.8+101 temurin-17.0.8+101 adoptopenjdk-8.0.352+8 graalvm-22.0.0.2+java17
